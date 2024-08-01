@@ -1,8 +1,6 @@
 # SUDOKU SOLVER
 #### Video Demo:  <https://youtu.be/x4pK-SwLGPg>
 
-<iframe width="560" height="315" src="https://youtu.be/x4pK-SwLGPg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #### Description:
 What is Sudoku Solver? Well, Sudoku Solver is not only a program that solves a puzzle of 9x9 square grid. It is a program that gets an image from the user and tries its best to detect every number from each box, then solve it and return an image with the solved puzzle. It is presented as a simiple web page for a better interaction with the user.
 
