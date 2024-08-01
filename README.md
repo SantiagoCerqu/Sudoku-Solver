@@ -20,4 +20,4 @@ As I told you before, the digit recognition is not perfect, sometimes it detects
 This is CS50X... 
 
 ### Images
-![Alt text](screenshots/Screenshot 2024-08-01 at 9.24.38 AM.png)
+![Alt text](screenshots/1.png)
