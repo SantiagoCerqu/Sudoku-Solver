@@ -18,3 +18,6 @@ The project is a receipt of 4 steps with one input and one (ore multiple) output
 
 As I told you before, the digit recognition is not perfect, sometimes it detects other numbers or can't detect the numbers. Working on this proyect helped me to understand how to work with pixels and how to obtain data from images. Also how to work with many differnt type of variables and data structures to solve problems. Thank you!
 This is CS50X... 
+
+### Images
+![Alt text](screenshots/Screenshot 2024-08-01 at 9.24.38 AM.png)
